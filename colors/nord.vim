@@ -11,7 +11,7 @@ if version > 580
     syntax reset
   endif
 endif
-
+let g:nord_cursor_line_number_background = 1
 let g:colors_name = "nord"
 let s:nord_vim_version="0.15.0"
 set background=dark
